@@ -14,3 +14,27 @@
 {
 	padding-left:6%;
 }
+img
+{
+	width:100vw;
+	max-height:70vh;
+}
+
+#aboutdiv
+{
+	padding:2rem;
+	width:60%;
+	height:20rem;
+}
+.images
+{
+	border-radius:100%;
+}
+h5
+{
+	text-align:center;
+}
+.lastfoot
+{
+  background-color:#11100c;
+}
